@@ -1,0 +1,8 @@
+# Folders that shouldn't be commited 
+node_modules/
+.vscode/
+dist/
+
+# Files that shouldn't be commited 
+package-lock.json
+.env
